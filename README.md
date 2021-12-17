@@ -188,7 +188,7 @@ For example:
 }
 ````
 
-# Cleaning UP
+## Cleaning UP
 
 Run the following command:
 
@@ -201,3 +201,7 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+## Reference
+
+- [Suportando Mutual TLS (mTLS) Utilizando Certificados do ICP-Brasil para o Open Banking no Brasil utilizando o Amazon API Gateway](https://aws.amazon.com/pt/blogs/aws-brasil/suportando-mutual-tls-mtls-utilizando-certificados-do-icp-brasil-para-o-open-banking-no-brasil-utilizando-o-amazon-api-gateway/)
